@@ -1,4 +1,3 @@
-kavitha@DESKTOP-MQQ26AD:~/shellforge$ nano makefile 
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11 -Iinclude
 
